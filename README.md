@@ -1,3 +1,3 @@
 # UI-ReginaldJeeves
 User interface for the Reginald Jeeves agent
-Icons made by [Flaticon] (https://www.flaticon.com/authors/freepik) 
+Icons made by https://www.flaticon.com/authors/freepik
